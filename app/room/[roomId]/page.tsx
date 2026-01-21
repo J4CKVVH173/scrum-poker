@@ -212,6 +212,8 @@ export default function RoomPage() {
   const handleLeave = async () => {
     if (participantId) {
       await leaveRoom(roomId, participantId)
+      localStorage.removeItem(`scrum-poker-admin-${roomId}`)
+      localStorage.removeItem(`scrum-poker-user-${roomId}`)
     }
     router.push('/')
   }
