@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Scrum Poker - Collaborative Estimation for Agile Teams',
+  title: 'Scrum Poker',
   description: 'Run planning poker sessions with your team in real-time. No sign-up required, just create a room and start estimating.',
   icons: {
     icon: [
