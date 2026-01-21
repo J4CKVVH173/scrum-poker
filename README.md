@@ -4,8 +4,8 @@ Scrum Poker (Planning Poker): self-hosted web application for task estimation in
 
 This is a lightweight, modern, and fully self-hosted application for conducting Scrum Poker / Planning Poker sessions. Created specifically for small teams (5–10 people) to quickly and conveniently estimate user stories, tasks, or sprint backlogs during planning.
 
-![docs/page1.png]
-![docs/page2.png]
+![Table](docs/page1.png)
+![Result](docs/page2.png)
 
 ## Key Features
 
